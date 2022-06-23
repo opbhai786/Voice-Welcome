@@ -38,9 +38,9 @@ echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■�
 echo ""
 echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mWebSite   \e[1;91m =  \e[1;97monlinehacking.in"
 echo "" 
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97m@onlinehacking"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97m@Opbhai786"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTelegram  \e[1;91m =  \e[1;97m@OnlineHacking"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTelegram  \e[1;91m =  \e[1;97m@Opbhai786"
 echo ""
 echo ''
 date | lolcat
