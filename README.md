@@ -7,13 +7,13 @@
   Welcome Banner In Termux
 </p>
 
-<a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Mr.Suman || OnlineHacking-blue.svg">
+<a href="https://t.me/underprocess"><img src="https://img.shields.io/badge/telegram-Mr.Suman || OnlineHacking-blue.svg">
 
 
 ### MAINTAINERS
-* **SUMAN MONDAL**| 
-Twitter: <a href="https://twitter.com/suman333mondal">@suman333mondal</a>
-Github: <a href="https://github.com/OnlineHacking">@OnlineHacking</a>
+* **OP BHAI**| 
+Twitter: nil
+Github: <a href="https://github.com/opbhai786">@OnlineHacking</a>
 Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
 
 ![unnamed (2)](https://i.pinimg.com/originals/32/9b/50/329b50a3d16e930c39414b1cd32948f7.jpg)
@@ -41,7 +41,7 @@ $ apt-get upgrade -y
 $ pkg install mpv -y
 ```
 ```
-$ git clone https://github.com/OnlineHacKing/Voice-Welcome.git
+$ git clone https://github.com/OPBHAI786/Voice-Welcome.git
 ```
 ```
 $ cd Voice-Welcome
@@ -56,7 +56,7 @@ Now Type exit & restart Termux
 
 ### Update Tool
 ```
-$ rm -rf 'Voice-Welcome' && pkg install mpv -y && git clone https://github.com/OnlineHacKing/Voice-Welcome.git && cd Voice-Welcome && chmod +x * && sh install.sh && exit
+$ rm -rf 'Voice-Welcome' && pkg install mpv -y && git clone https://github.com/OPBHAI786/Voice-Welcome.git && cd Voice-Welcome && chmod +x * && sh install.sh && exit
 ```
 
 ## Video Tutorials
